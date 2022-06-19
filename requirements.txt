@@ -1,5 +1,6 @@
 streamlit>=1.9.0
 pandas>=1.2.4
+numpy
 yfinance>=0.1.70
 ta>=0.10.1
 DateTime>=4.4
