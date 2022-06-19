@@ -1,4 +1,4 @@
-# Stocks-Daily
+# The Stock Prediction App
 ## Web-App Developed with Streamlit & FB Prophet 📈
 
 ![](https://media.giphy.com/media/S4178TW2Rm1LW/giphy.gif)
